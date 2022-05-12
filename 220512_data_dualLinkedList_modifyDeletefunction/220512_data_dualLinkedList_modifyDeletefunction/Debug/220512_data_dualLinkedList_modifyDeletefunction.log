@@ -1,0 +1,8 @@
+﻿  DoubleLinkedList.c
+C:\Users\KCCI26\source\Data-Structure\220512_data_dualLinkedList_modifyDeletefunction\220512_data_dualLinkedList_modifyDeletefunction\DoubleLinkedList.c(8,28): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\KCCI26\source\Data-Structure\220512_data_dualLinkedList_modifyDeletefunction\220512_data_dualLinkedList_modifyDeletefunction\DoubleLinkedList.c(45,7): warning C4013: 'free'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  ex4_4_modify.c
+C:\Users\KCCI26\source\Data-Structure\220512_data_dualLinkedList_modifyDeletefunction\220512_data_dualLinkedList_modifyDeletefunction\ex4_4_modify.c(9,8): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\KCCI26\source\Data-Structure\220512_data_dualLinkedList_modifyDeletefunction\220512_data_dualLinkedList_modifyDeletefunction\ex4_4_modify.c(41,9): warning C4013: 'getchar'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  코드를 생성하고 있습니다...
+  220512_data_dualLinkedList_modifyDeletefunction.vcxproj -> C:\Users\KCCI26\source\Data-Structure\220512_data_dualLinkedList_modifyDeletefunction\Debug\220512_data_dualLinkedList_modifyDeletefunction.exe
