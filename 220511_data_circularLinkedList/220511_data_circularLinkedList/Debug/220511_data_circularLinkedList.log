@@ -1,0 +1,4 @@
+﻿  ex4_3.c
+C:\Users\KCCI26\source\repos\220511_data_circularLinkedList\220511_data_circularLinkedList\ex4_3.c(8,8): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\KCCI26\source\repos\220511_data_circularLinkedList\220511_data_circularLinkedList\ex4_3.c(31,9): warning C4013: 'getchar'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  220511_data_circularLinkedList.vcxproj -> C:\Users\KCCI26\source\repos\220511_data_circularLinkedList\Debug\220511_data_circularLinkedList.exe

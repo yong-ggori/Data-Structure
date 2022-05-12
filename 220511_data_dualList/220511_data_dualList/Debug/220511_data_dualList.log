@@ -1,0 +1,4 @@
+﻿  DoubleLinkedList.c
+C:\Users\KCCI26\source\Data-Structure\220511_data_dualList\220511_data_dualList\DoubleLinkedList.c(8,28): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\KCCI26\source\Data-Structure\220511_data_dualList\220511_data_dualList\DoubleLinkedList.c(46,7): warning C4013: 'free'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  220511_data_dualList.vcxproj -> C:\Users\KCCI26\source\Data-Structure\220511_data_dualList\Debug\220511_data_doubleLinkedList.exe
