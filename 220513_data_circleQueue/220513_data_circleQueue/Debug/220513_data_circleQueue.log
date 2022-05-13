@@ -1,0 +1,4 @@
+﻿  ex6_2.c
+C:\Users\KCCI26\source\Data-Structure\220513_data_circleQueue\220513_data_circleQueue\ex6_2.c(7,8): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\KCCI26\source\Data-Structure\220513_data_circleQueue\220513_data_circleQueue\ex6_2.c(41,9): warning C4013: 'getchar'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  220513_data_circleQueue.vcxproj -> C:\Users\KCCI26\source\Data-Structure\220513_data_circleQueue\Debug\220513_data_circleQueue.exe

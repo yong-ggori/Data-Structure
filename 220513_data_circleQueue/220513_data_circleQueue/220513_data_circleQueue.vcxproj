@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{90bffcbf-5293-49fe-81e4-b0716f07196b}</ProjectGuid>
-    <RootNamespace>My220512dataqueueSh</RootNamespace>
+    <ProjectGuid>{19d99d3f-31c5-4709-91f6-37aaa65ff8de}</ProjectGuid>
+    <RootNamespace>My220513datacircleQueue</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>220513_data_queueS.h</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -140,11 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="queueS.h" />
+    <ClInclude Include="cQueueS.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ex6_1.c" />
-    <ClCompile Include="queueS.c" />
+    <ClCompile Include="cQueueS.c" />
+    <ClCompile Include="ex6_2.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
